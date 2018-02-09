@@ -2,7 +2,7 @@
  * Peter McEwen
  * Feb 8, 2018
  * Output
- * display the name of the user
+ * display the name of the user when entered
  */
 using System;
 using System.Collections.Generic;
